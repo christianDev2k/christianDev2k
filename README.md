@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Nhân</h1>
 <h3 align="center">A Intern Frontend Developer From VietNam</h3>
+<br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 - 🌱 I’m currently learning **ReactJS**
@@ -29,7 +30,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 
-<br>
+<br><br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
@@ -42,7 +43,7 @@
   </a>
 </div>
 
-<br>
+<br><br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
