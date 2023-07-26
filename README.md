@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I usually solve my problems with my search skills before asking for help**
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
