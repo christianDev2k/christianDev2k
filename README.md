@@ -29,6 +29,8 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&amp;logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 
 <br><br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
